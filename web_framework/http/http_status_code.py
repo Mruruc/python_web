@@ -1,0 +1,9 @@
+"""
+Http Status Codes:
+
+"""
+OK = 200
+NOT_FOUND = 404
+CREATED = 201
+INTERNAL_SERVER_ERROR = 500
+
